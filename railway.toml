@@ -1,0 +1,3 @@
+[build]
+builder = "nixpacks"
+nixpacksPlan = "nodejs-16" # Ou nodejs-18 se for compatível
